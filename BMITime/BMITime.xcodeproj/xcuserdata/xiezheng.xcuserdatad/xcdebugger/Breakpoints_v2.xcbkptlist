@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5FD7D62-8E95-4124-B711-EC37CF3A84E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "606C96E4-BC33-4C3F-B97A-6C8AB6CD5B90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMITime/BNRPerson.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "weightInKilos"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "606C96E4-BC33-4C3F-B97A-6C8AB6CD5B90 - 94f4a3c359f45dce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BNRPerson weightInKilos]"
+                  moduleName = "BMITime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiezheng/Desktop/oc_project/BMITime/BMITime/BNRPerson.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "606C96E4-BC33-4C3F-B97A-6C8AB6CD5B90 - b4a25e3de41ebd54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BNRPerson setWeightInKilos:]"
+                  moduleName = "BMITime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiezheng/Desktop/oc_project/BMITime/BMITime/BNRPerson.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
